@@ -18,7 +18,7 @@ import (
 	"math"
 	"math/rand"
 
-	. "github.com/aerospike/aerospike-client-go"
+	. "github.com/verticalmass/aerospike-client-go"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

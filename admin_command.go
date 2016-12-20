@@ -18,9 +18,9 @@ import (
 	"encoding/binary"
 	"time"
 
-	"github.com/aerospike/aerospike-client-go/pkg/bcrypt"
-	. "github.com/aerospike/aerospike-client-go/types"
-	Buffer "github.com/aerospike/aerospike-client-go/utils/buffer"
+	"github.com/verticalmass/aerospike-client-go/pkg/bcrypt"
+	. "github.com/verticalmass/aerospike-client-go/types"
+	Buffer "github.com/verticalmass/aerospike-client-go/utils/buffer"
 )
 
 const (

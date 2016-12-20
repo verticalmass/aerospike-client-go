@@ -18,7 +18,7 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	. "github.com/aerospike/aerospike-client-go"
+	. "github.com/verticalmass/aerospike-client-go"
 )
 
 var _ = Describe("LargeStack Test", func() {

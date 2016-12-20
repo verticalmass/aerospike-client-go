@@ -19,8 +19,8 @@ package aerospike
 import (
 	"reflect"
 
-	. "github.com/aerospike/aerospike-client-go/types"
-	xornd "github.com/aerospike/aerospike-client-go/types/rand"
+	. "github.com/verticalmass/aerospike-client-go/types"
+	xornd "github.com/verticalmass/aerospike-client-go/types/rand"
 )
 
 // PutObject writes record bin(s) to the server.

@@ -15,7 +15,7 @@
 package lua
 
 import (
-	"github.com/aerospike/aerospike-client-go/logger"
+	"github.com/verticalmass/aerospike-client-go/logger"
 	"github.com/yuin/gopher-lua"
 )
 

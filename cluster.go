@@ -24,10 +24,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	. "github.com/aerospike/aerospike-client-go/logger"
+	. "github.com/verticalmass/aerospike-client-go/logger"
 
-	. "github.com/aerospike/aerospike-client-go/types"
-	. "github.com/aerospike/aerospike-client-go/types/atomic"
+	. "github.com/verticalmass/aerospike-client-go/types"
+	. "github.com/verticalmass/aerospike-client-go/types/atomic"
 )
 
 type partitionMap map[string][][]*Node

@@ -15,11 +15,11 @@
 package aerospike_test
 
 import (
-	. "github.com/aerospike/aerospike-client-go"
-	// . "github.com/aerospike/aerospike-client-go/logger"
-	// . "github.com/aerospike/aerospike-client-go/types"
+	. "github.com/verticalmass/aerospike-client-go"
+	// . "github.com/verticalmass/aerospike-client-go/logger"
+	// . "github.com/verticalmass/aerospike-client-go/types"
 
-	// . "github.com/aerospike/aerospike-client-go/utils/buffer"
+	// . "github.com/verticalmass/aerospike-client-go/utils/buffer"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
